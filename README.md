@@ -1,4 +1,2 @@
-### Hi there 👋, I am Justyer
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Justyer)](https://github.com/anuraghazra/github-readme-stats)
+### 新世纪的代码编写者，雷电晴川⚡️！
+#### New Century Coder, Raiden Justyer!

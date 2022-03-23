@@ -1,2 +1,4 @@
-### 新世纪的代码编写者，雷电晴川⚡️！
-#### New Century Coder, Raiden Justyer!
+### ⚡️雷电晴川⚡️
+- golang爱好者
+- codec爱好者
+- 风骚的厄斐琉斯使用者！
